@@ -1,0 +1,24 @@
+thead{
+    background-color: dodgerblue;
+}
+tbody{
+    background-color: deeppink;
+}
+tfoot{
+    background-color: dodgerblue;
+}
+table{
+    border: 6px groove yellow;
+    width: 100%; 
+    border-collapse: separate;
+} 
+td,th{
+    border: solid 4px rgb(212, 33, 57);
+    border-radius: 30%;
+}
+td{
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}
